@@ -67,9 +67,7 @@ streamlit run app.py
 5. Kaggle Dataset - https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 ## Author
-Mugilan B
-B.S. Abdur Rahman Crescent Institute of Science & Technology
-B.Tech Artificial Intelligence & Data Science
+Mugilan B - B.Tech Artificial Intelligence & Data Science - B.S. Abdur Rahman Crescent Institute of Science & Technology 
 
 ## License
 This project is intended for academic and educational use only.
