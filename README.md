@@ -69,7 +69,7 @@ streamlit run app.py
 ## Author
 Mugilan B
 B.S. Abdur Rahman Crescent Institute of Science & Technology
-B.Tech Artificial Intelligence & Data Science<img width="2488" height="88" 
+B.Tech Artificial Intelligence & Data Science
 
 ## License
 This project is intended for academic and educational use only.
